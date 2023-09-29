@@ -4,7 +4,7 @@ metadata:
   name: spring-boot-hello
   namespace: springboot
 spec:
-  type: LoadBalancer
+  type: LoadBalancer1
   selector:
     app: spring-boot-hello
   ports:
